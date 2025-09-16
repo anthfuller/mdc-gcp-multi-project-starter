@@ -1,4 +1,6 @@
 # MDC ↔ GCP Multi‑Project Starter
+Starter scripts for onboarding multiple Google Cloud projects to Microsoft Defender for Cloud using Workload Identity Federation (WIF) and optional Defender for Servers.
+
 
 Tiny repo to onboard Google Cloud projects to **Microsoft Defender for Cloud (MDC)** using **Workload Identity Federation (WIF)**.
 
