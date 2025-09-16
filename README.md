@@ -54,3 +54,7 @@ Two patterns are included:
   Author: Anthony Fuller  
   Date:   2025-09-19
 
+  ## License
+MIT License – see [LICENSE](LICENSE) for details.
+
+
