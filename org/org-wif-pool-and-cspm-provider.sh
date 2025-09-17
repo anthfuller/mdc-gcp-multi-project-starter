@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Purpose: Create an organization-level Workload Identity Federation pool and OIDC provider for onboarding GCP projects to Microsoft Defender for Cloud (CSPM).
 # =============================================================================
 # Org-level WIF pool + CSPM provider (run ONCE per org)
 # WHERE TO RUN: GCP Cloud Shell (https://shell.cloud.google.com)
