@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Purpose: Create an organization-level Workload Identity Federation provider for onboarding GCP projects to Microsoft Defender for Servers (MDE).
 # =============================================================================
 # Org-level WIF provider for Defender for Servers (run ONCE per org)
 # WHERE TO RUN: GCP Cloud Shell (https://shell.cloud.google.com)
