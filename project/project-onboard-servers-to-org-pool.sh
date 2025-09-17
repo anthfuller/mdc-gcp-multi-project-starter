@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Purpose: Onboard a GCP project’s Defender for Servers (MDE) resources to the organization-level Workload Identity Federation pool.
 # =============================================================================
 # Per-project onboarding to ORG-level pool for Defender for Servers
 # WHERE TO RUN: GCP Cloud Shell
