@@ -14,6 +14,22 @@ Two patterns are included:
   - Onboard the project to its own pool.
 
 > **Where to run**: All scripts are designed for **GCP Cloud Shell**. Ensure your account has the required IAM permissions noted at the top of each script.
+> 
+## Prerequisites
+
+Before running the scripts you need:
+
+* **Google Cloud project & billing** enabled.
+* Permission to create **Workload Identity Federation** pools and providers
+  (typically `roles/iam.workloadIdentityPoolAdmin` or equivalent).
+* Permission to create **service accounts** and assign roles
+  (for example `roles/iam.serviceAccountAdmin` and
+  `roles/iam.serviceAccountKeyAdmin`).
+* **Google Cloud Shell** or a workstation with the `gcloud` CLI installed and
+  authenticated to the target organization.
+* Basic familiarity with Microsoft Defender for Cloud setup.
+
+> Adjust IAM roles as needed for your organization’s policies.
 
 ## Quick start (org-level recommended)
 
