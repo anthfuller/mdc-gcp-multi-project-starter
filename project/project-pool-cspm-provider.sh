@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Purpose: Create a project-scoped Workload Identity Federation pool and OIDC provider for CSPM onboarding.
 # =============================================================================
 # Project-level WIF CSPM provider (only if using project-scoped pools)
 # WHERE TO RUN: GCP Cloud Shell
